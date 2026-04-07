@@ -1,6 +1,6 @@
 # Hi, I'm Remeldo Stone 👋
 
-I'm an aspiring **IT Support Technician** and future **Cybersecurity professional** from South Africa, building my career through real-world troubleshooting, device repair, operating system recovery, driver fixes, networking practice, and hands-on lab work.
+I'm a hands-on IT support and troubleshooting enthusiast from South Africa, building real experience through hardware repair, operating system recovery, driver troubleshooting, networking practice, and technical documentation, while working toward a career in cybersecurity.
 
 I enjoy solving technical problems, documenting the process, and turning practical experience into a strong portfolio.
 
