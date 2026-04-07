@@ -115,6 +115,8 @@ A documented troubleshooting project focused on diagnosing and working around de
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemmyStone08&layout=compact&theme=tokyonight)
 
+![GitHub Stats](https://streak-stats.demolab.com?user=RemmyStone08&theme=tokyonight)
+
 ---
 
 ## 🎯 Career Goal
