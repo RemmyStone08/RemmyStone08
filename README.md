@@ -14,101 +14,96 @@
 ---
 
 ## 🧠 About Me
-I'm a hands-on IT support and troubleshooting enthusiast from South Africa, building real experience through hardware repair, operating system recovery, driver troubleshooting, networking practice, and technical documentation, while working toward a career in cybersecurity.
 
-I enjoy solving technical problems, documenting the process, and turning practical experience into a strong portfolio.
+I'm a hands-on **IT Support Technician** from South Africa with a strong interest in **troubleshooting, hardware diagnostics, system recovery, networking, and cybersecurity**.
 
----
-
-## 🚀 Me in Technical Terms
-
-- 🔧 Hands-on with **laptop and desktop troubleshooting**
-- 💻 Comfortable with **Windows installation, recovery, and driver repair**
-- 🛠 Experienced in **hardware diagnostics and fault finding**
-- 🌐 Building skills in **networking, file sharing, and device connectivity**
-- 🐧 Exploring **Linux troubleshooting and recovery**
-- 🛡 Currently working toward a **Blue Team / Cybersecurity** path
-- 📚 Growing my technical portfolio through documented real-world fixes
+I enjoy working on real technical problems, finding the actual cause of the issue, and documenting the fix properly. My long-term goal is to grow from strong technical support and systems experience into **Blue Team cybersecurity**.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🔥 What I Work On
 
-### 💻 Systems & OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔧 Troubleshooting
-![Hardware](https://img.shields.io/badge/Hardware-Diagnostics-blue?style=for-the-badge)
-![Drivers](https://img.shields.io/badge/Driver-Issues-critical?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-Basics-orange?style=for-the-badge)
-
-### ⚙️ Tools
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD-Terminal-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
-
----
-
-## 💼 What I Work On
-
-- Hardware diagnostics and component testing
-- Windows setup, repair, and reinstallation
+- Laptop and desktop troubleshooting
+- Windows installation, repair, and recovery
 - Driver troubleshooting and recovery
-- BIOS / firmware configuration
-- Network setup and connectivity troubleshooting
-- Linux system recovery and basic administration
-- Technical documentation and project write-ups
-- Homelab-style learning and hands-on support work
+- Hardware diagnostics and fault isolation
+- Wi-Fi, Bluetooth, and connectivity issues
+- BIOS / UEFI configuration
+- Linux recovery and basic administration
+- Networking fundamentals and local device setup
+- Technical documentation and repair case write-ups
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Core Skills
 
 ### Operating Systems
 - Windows 10 / 11
-- Windows Server basics
-- Linux basics (especially Debian/Ubuntu-based systems)
+- Windows Server fundamentals
+- Linux basics (Debian / Ubuntu-based systems)
 
 ### Troubleshooting
-- Driver issues
 - No-boot / no-display faults
-- Wi-Fi and Bluetooth problems
+- Driver failures and recovery
+- Wi-Fi / Bluetooth faults
+- Crash diagnosis
 - Performance and throttling issues
-- Hardware isolation and diagnostics
-- OS crashes and recovery
+- System instability and recovery
 
 ### Hardware
-- RAM testing
+- RAM diagnostics
 - SSD / drive health checks
-- Battery and power diagnosis
+- Battery and charging diagnosis
 - Thermal troubleshooting
 - Laptop disassembly and inspection
 
 ### Networking
-- IP addressing
 - DHCP
+- IP addressing
 - Basic router configuration
 - File sharing
-- Network troubleshooting
+- Device connectivity troubleshooting
 
-### Tools & Platforms
+### Tools
 - GitHub
+- PowerShell
+- CMD
+- BIOS / UEFI utilities
 - Device Manager
-- BIOS/UEFI
-- Basic command line tools
-- PowerShell / CMD
-- Power BI (learning)
+- Basic Linux terminal tools
+
+---
+
+## 🧰 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMD-Terminal-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-Basics-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware-Diagnostics-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team-16a34a?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### [IT Troubleshooting Portfolio](https://github.com/RemmyStone08/remeldo-portfolio)
-A growing portfolio of real-world technical work including troubleshooting, repairs, recovery steps, and hardware/software fixes.
+A growing portfolio of real-world troubleshooting, repair work, system recovery, and technical write-ups.
 
 ### [MacBook 2012 dGPU Fix](https://github.com/RemmyStone08/remeldo-portfolio/tree/main/IT-Troubleshooting/macbook-2012-dgpu-fix)
-A documented troubleshooting project focused on diagnosing and working around dedicated GPU failure on a 2012 MacBook.
+A documented repair and troubleshooting case focused on diagnosing and working around dedicated GPU failure on a 2012 MacBook.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RemmyStone08&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -118,34 +113,31 @@ A documented troubleshooting project focused on diagnosing and working around de
 - Networking fundamentals
 - Windows Server fundamentals
 - Blue Team cybersecurity path
-- Technical documentation
-- Power BI reporting and dashboards
+- Power BI
+- Better technical documentation
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Direction
 
-![Remmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemmyStone08&show_icons=true&theme=tokyonight&cache_seconds=1800)
+I'm building a strong base in:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemmyStone08&layout=compact&theme=tokyonight)
+- IT support
+- troubleshooting
+- systems
+- networking
+- documentation
 
-![GitHub Stats](https://streak-stats.demolab.com?user=RemmyStone08&theme=tokyonight)
+From there, I want to move deeper into **defensive security**, especially **Blue Team operations, detection, analysis, and system hardening**.
 
 ---
 
-## 🎯 Career Goal
+## ⚡ What I Enjoy
 
-My goal is to build a strong foundation in **IT support, troubleshooting, systems, and networking**, and then grow into **cybersecurity**, especially on the defensive / Blue Team side.
+I enjoy diagnosing faults properly, understanding the root cause, and fixing problems without guessing.
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: [RemmyStone08](https://github.com/RemmyStone08)
-- LinkedIn: [Remeldo Stone](linkedin.com/in/remeldo-stone)
-
----
-
-## ⚡ Fun Fact
-
-I enjoy diagnosing real faults, understanding the root cause, and fixing problems properly instead of guessing.
