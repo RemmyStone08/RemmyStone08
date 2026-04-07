@@ -18,6 +18,24 @@ I enjoy solving technical problems, documenting the process, and turning practic
 
 ---
 
+## 🛠 Tech Stack & Tools
+
+### 💻 Systems & OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔧 Troubleshooting
+![Hardware](https://img.shields.io/badge/Hardware-Diagnostics-blue?style=for-the-badge)
+![Drivers](https://img.shields.io/badge/Driver-Issues-critical?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Basics-orange?style=for-the-badge)
+
+### ⚙️ Tools
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-Terminal-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
+
+---
+
 ## 💼 What I Work On
 
 - Hardware diagnostics and component testing
