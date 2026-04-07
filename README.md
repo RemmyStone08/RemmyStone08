@@ -141,3 +141,4 @@ I enjoy diagnosing faults properly, understanding the root cause, and fixing pro
 ## 📫 Connect With Me
 
 - GitHub: [RemmyStone08](https://github.com/RemmyStone08)
+- LinkedIn: [Remeldo Stone](linkedin.com/in/remeldo-stone)
