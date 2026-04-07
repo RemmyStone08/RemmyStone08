@@ -106,5 +106,4 @@ My goal is to build a strong foundation in **IT support, troubleshooting, system
 
 ## ⚡ Fun Fact
 
-I prefer real troubleshooting over guessing.  
-I like finding the fault, understanding the cause, and documenting the fix properly.
+I enjoy diagnosing real faults, understanding the root cause, and fixing problems properly instead of guessing.
