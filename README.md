@@ -1,12 +1,26 @@
 # Hi, I'm Remeldo Stone 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Support+Technician;Troubleshooting+%7C+Hardware+Diagnostics+%7C+System+Recovery;Building+toward+Blue+Team+Cybersecurity" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IT%20Support-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Path-Blue%20Team-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Cybersecurity-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-South%20Africa-f97316?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About Me
 I'm a hands-on IT support and troubleshooting enthusiast from South Africa, building real experience through hardware repair, operating system recovery, driver troubleshooting, networking practice, and technical documentation, while working toward a career in cybersecurity.
 
 I enjoy solving technical problems, documenting the process, and turning practical experience into a strong portfolio.
 
 ---
 
-## 🚀 About Me
+## 🚀 Me in Technical Terms
 
 - 🔧 Hands-on with **laptop and desktop troubleshooting**
 - 💻 Comfortable with **Windows installation, recovery, and driver repair**
