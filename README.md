@@ -1,41 +1,110 @@
-# Hi, I'm Remeldo Stone 👋
+# Hi, I'm Remmy Stone 👋
 
-I'm an aspiring IT Support and Cybersecurity professional from South Africa, building hands-on experience through real-world troubleshooting, hardware repair, system setup, and lab work.
+I'm an aspiring **IT Support Technician** and future **Cybersecurity professional** from South Africa, building my career through real-world troubleshooting, device repair, operating system recovery, driver fixes, networking practice, and hands-on lab work.
 
-## 💻 What I Do
-- Laptop and desktop troubleshooting
-- Windows installation, drivers, and system recovery
-- Hardware diagnostics and repair
-- Basic networking and device setup
-- Homelab and technical project documentation
-- Learning Blue Team / Cybersecurity fundamentals
+I enjoy solving technical problems, documenting the process, and turning practical experience into a strong portfolio.
 
-## 🛠 Skills
-- Windows troubleshooting
-- Driver installation and recovery
-- Hardware testing and diagnostics
+---
+
+## 🚀 About Me
+
+- 🔧 Hands-on with **laptop and desktop troubleshooting**
+- 💻 Comfortable with **Windows installation, recovery, and driver repair**
+- 🛠 Experienced in **hardware diagnostics and fault finding**
+- 🌐 Building skills in **networking, file sharing, and device connectivity**
+- 🐧 Exploring **Linux troubleshooting and recovery**
+- 🛡 Currently working toward a **Blue Team / Cybersecurity** path
+- 📚 Growing my technical portfolio through documented real-world fixes
+
+---
+
+## 💼 What I Work On
+
+- Hardware diagnostics and component testing
+- Windows setup, repair, and reinstallation
+- Driver troubleshooting and recovery
 - BIOS / firmware configuration
-- Networking basics
-- Documentation and technical writeups
-- GitHub project organization
+- Network setup and connectivity troubleshooting
+- Linux system recovery and basic administration
+- Technical documentation and project write-ups
+- Homelab-style learning and hands-on support work
+
+---
+
+## 🛠 Technical Skills
+
+### Operating Systems
+- Windows 10 / 11
+- Windows Server basics
+- Linux basics (especially Debian/Ubuntu-based systems)
+
+### Troubleshooting
+- Driver issues
+- No-boot / no-display faults
+- Wi-Fi and Bluetooth problems
+- Performance and throttling issues
+- Hardware isolation and diagnostics
+- OS crashes and recovery
+
+### Hardware
+- RAM testing
+- SSD / drive health checks
+- Battery and power diagnosis
+- Thermal troubleshooting
+- Laptop disassembly and inspection
+
+### Networking
+- IP addressing
+- DHCP
+- Basic router configuration
+- File sharing
+- Network troubleshooting
+
+### Tools & Platforms
+- GitHub
+- Device Manager
+- BIOS/UEFI
+- Basic command line tools
+- PowerShell / CMD
+- Power BI (learning)
+
+---
 
 ## 📂 Featured Projects
-### [MacBook 2012 dGPU Fix](https://github.com/RemmyStone08/remeldo-portfolio/tree/main/IT-Troubleshooting/macbook-2012-dgpu-fix)
-A troubleshooting and repair write-up focused on diagnosing and working around dedicated GPU issues on a 2012 MacBook.
 
 ### [IT Troubleshooting Portfolio](https://github.com/RemmyStone08/remeldo-portfolio)
-A growing collection of real support, repair, and troubleshooting work covering laptops, drivers, operating systems, and hardware issues.
+A growing portfolio of real-world technical work including troubleshooting, repairs, recovery steps, and hardware/software fixes.
+
+### [MacBook 2012 dGPU Fix](https://github.com/RemmyStone08/remeldo-portfolio/tree/main/IT-Troubleshooting/macbook-2012-dgpu-fix)
+A documented troubleshooting project focused on diagnosing and working around dedicated GPU failure on a 2012 MacBook.
+
+---
 
 ## 🌱 Currently Learning
+
 - CompTIA A+
 - Networking fundamentals
+- Windows Server fundamentals
 - Blue Team cybersecurity path
-- Better technical documentation
-- Power BI for reporting and dashboards
+- Technical documentation
+- Power BI reporting and dashboards
+
+---
+
+## 🎯 Career Goal
+
+My goal is to build a strong foundation in **IT support, troubleshooting, systems, and networking**, and then grow into **cybersecurity**, especially on the defensive / Blue Team side.
+
+---
 
 ## 📫 Connect With Me
+
 - GitHub: [RemmyStone08](https://github.com/RemmyStone08)
 - LinkedIn: [Remeldo Stone](linkedin.com/in/remeldo-stone)
 
-## ⚡ About Me
-I enjoy solving real tech problems, documenting fixes, and turning practical experience into a strong IT and cybersecurity career.
+---
+
+## ⚡ Fun Fact
+
+I prefer real troubleshooting over guessing.  
+I like finding the fault, understanding the cause, and documenting the fix properly.
