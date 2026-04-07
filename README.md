@@ -1,4 +1,4 @@
-# Hi, I'm Remmy Stone 👋
+# Hi, I'm Remeldo Stone 👋
 
 I'm an aspiring **IT Support Technician** and future **Cybersecurity professional** from South Africa, building my career through real-world troubleshooting, device repair, operating system recovery, driver fixes, networking practice, and hands-on lab work.
 
