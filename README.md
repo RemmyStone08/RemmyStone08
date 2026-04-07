@@ -91,6 +91,14 @@ A documented troubleshooting project focused on diagnosing and working around de
 
 ---
 
+## 📊 GitHub Stats
+
+![Remmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemmyStone08&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemmyStone08&layout=compact&theme=tokyonight)
+
+---
+
 ## 🎯 Career Goal
 
 My goal is to build a strong foundation in **IT support, troubleshooting, systems, and networking**, and then grow into **cybersecurity**, especially on the defensive / Blue Team side.
