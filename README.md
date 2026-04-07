@@ -111,7 +111,7 @@ A documented troubleshooting project focused on diagnosing and working around de
 
 ## 📊 GitHub Stats
 
-![Remmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemmyStone08&show_icons=true&theme=tokyonight)
+![Remmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemmyStone08&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemmyStone08&layout=compact&theme=tokyonight)
 
