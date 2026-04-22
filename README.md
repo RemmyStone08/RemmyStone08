@@ -1,4 +1,4 @@
-# Hi, I'm Remeldo Stone 👋
+# Hey there, I'm Remeldo Stone 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Support+Technician;Troubleshooting+%7C+Hardware+Diagnostics+%7C+System+Recovery;Building+toward+Blue+Team+Cybersecurity" alt="Typing SVG" />
@@ -32,6 +32,7 @@ I enjoy working on real technical problems, finding the actual cause of the issu
 - Linux recovery and basic administration
 - Networking fundamentals and local device setup
 - Technical documentation and repair case write-ups
+- Ticket logging and IT Support
 
 ---
 
@@ -41,6 +42,7 @@ I enjoy working on real technical problems, finding the actual cause of the issu
 - Windows 10 / 11
 - Windows Server fundamentals
 - Linux basics (Debian / Ubuntu-based systems)
+- macOS & ChromeOS
 
 ### Troubleshooting
 - No-boot / no-display faults
@@ -96,6 +98,9 @@ A growing portfolio of real-world troubleshooting, repair work, system recovery,
 
 ### [MacBook 2012 dGPU Fix](https://github.com/RemmyStone08/remeldo-portfolio/tree/main/IT-Troubleshooting/macbook-2012-dgpu-fix)
 A documented repair and troubleshooting case focused on diagnosing and working around dedicated GPU failure on a 2012 MacBook.
+
+### [homelab-active-directory](https://github.com/RemmyStone08/homelab-active-directory)
+A documented and growing home lab that I've built while self-learning active directory and the issues i've come accross.
 
 ---
 
